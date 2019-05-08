@@ -1,0 +1,33 @@
+_repo: Oral-Tradition-From-The-Indus-Comprised-In-Tales-To-Which-Are-Added-Explanatory-Notes_59401
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fenn, L.
+    gutenberg_agent_id: '50432'
+    url: http://www.gutenberg.org/2009/agents/50432
+creator:
+  authors:
+  - agent_name: McNair, John Frederick Adolphus
+    alias: McNair, J. F. A. (John Frederick Adolphus)
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '32377'
+    url: http://www.gutenberg.org/2009/agents/32377
+  - agent_name: Barlow, Thomas Lambert
+    gutenberg_agent_id: '50431'
+    url: http://www.gutenberg.org/2009/agents/50431
+description: ''
+gutenberg_issued: '2019-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59401'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Oral Tradition From The Indus
+
+  Comprised In Tales To Which Are Added Explanatory Notes'
+url: http://www.gutenberg.org/ebooks/59401
